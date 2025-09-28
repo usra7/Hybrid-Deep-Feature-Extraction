@@ -1,0 +1,6 @@
+Classifier,Mean_Accuracy,Std_Deviation,Best_Parameters
+SVM,78.34%,0.12%,"{'C': 10, 'gamma': 'scale', 'kernel': 'rbf'}"
+RandomForest,77.24%,0.32%,"{'max_depth': 15, 'min_samples_split': 2, 'n_estimators': 200}"
+LogisticRegression,79.19%,0.00%,"{'C': 0.1, 'penalty': 'l2'}"
+KNN,74.87%,0.00%,"{'n_neighbors': 3, 'weights': 'distance'}"
+DecisionTree,75.38%,0.00%,"{'max_depth': 15, 'min_samples_split': 2}"
